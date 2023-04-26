@@ -21,7 +21,10 @@ it will output a message indicating the location of the generated summary CSV fi
 This program can be useful for businesses that need to generate summary reports of their product lists. 
 It can also serve as a good example of how to read and write CSV files in Java using BufferedReader and BufferedWriter.
 
+![image](https://user-images.githubusercontent.com/17154364/234607229-1e424689-692a-453c-a0d4-36512079e845.png)
+
 
 ## Contact 🤚 
 
 contatodavij@gmail.com
+
